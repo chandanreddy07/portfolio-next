@@ -50,8 +50,8 @@ export default function Home() {
           <h2 className="text-2xl font-semibold text-purple-300 mb-2">Contact</h2>
           <div className="bg-gray-800 p-4 rounded shadow space-y-1">
             <p>📧 Email: <a className="text-blue-400 hover:underline" href="mailto:chinnuchandan11@gmail.com">chinnuchandan11@gmail.com</a></p>
-            <p>🌐 GitHub: <a className="text-blue-400 hover:underline" href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">github.com/your-username</a></p>
-            <p>💼 LinkedIn: <a className="text-blue-400 hover:underline" href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">linkedin.com/in/your-profile</a></p>
+            <p>🌐 GitHub: <a className="text-blue-400 hover:underline" href="https://github.com/chaandanreddy07" target="_blank" rel="noopener noreferrer">github.com/your-username</a></p>
+            <p>💼 LinkedIn: <a className="text-blue-400 hover:underline" href="https://linkedin.com/in/koyya chandan reddy" target="_blank" rel="noopener noreferrer">linkedin.com/in/your-profile</a></p>
           </div>
         </section>
       </div>
