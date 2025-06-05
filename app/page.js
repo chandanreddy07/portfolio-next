@@ -5,15 +5,15 @@ export default function Home() {
         <header className="text-center">
           <h1 className="text-4xl sm:text-5xl font-bold text-purple-400">KOYYA CHANDAN REDDY</h1>
           <p className="mt-2 text-lg sm:text-xl text-gray-300">
-            Aspiring Software Developer | Java • SQL • DSA • Python • C
+            Aspiring Software Developer | Java &bull; SQL &bull; DSA &bull; Python &bull; C
           </p>
         </header>
 
         <section>
           <h2 className="text-2xl font-semibold text-purple-300 mb-2">About Me</h2>
           <p className="bg-gray-800 p-4 rounded shadow">
-            I’m a B.Tech student at Gayatri Vidya Parishad College of Engineering, passionate about solving
-            real-world problems using code. I've developed a water delivery app and specialize in Java, SQL, DSA, Python, and C.
+            I&apos;m a B.Tech student at Gayatri Vidya Parishad College of Engineering, passionate about solving
+            real-world problems using code. I&apos;ve developed a water delivery app and specialize in Java, SQL, DSA, Python, and C.
           </p>
         </section>
 
@@ -39,10 +39,10 @@ export default function Home() {
         <section>
           <h2 className="text-2xl font-semibold text-purple-300 mb-2">Coding Profiles</h2>
           <div className="space-y-2 bg-gray-800 p-4 rounded shadow">
-            <p>⚡ LeetCode: <a className="text-blue-400 hover:underline" href="https://leetcode.com/your-username">leetcode.com/your-username</a></p>
-            <p>📘 GeeksforGeeks: <a className="text-blue-400 hover:underline" href="https://auth.geeksforgeeks.org/user/your-username">geeksforgeeks.org/user/your-username</a></p>
-            <p>🔥 CodeChef: <a className="text-blue-400 hover:underline" href="https://www.codechef.com/users/your-username">codechef.com/users/your-username</a></p>
-            <p>🏅 HackerRank: <a className="text-blue-400 hover:underline" href="https://www.hackerrank.com/your-username">hackerrank.com/your-username</a></p>
+            <p>⚡ LeetCode: <a className="text-blue-400 hover:underline" href="https://leetcode.com/your-username" target="_blank" rel="noopener noreferrer">leetcode.com/your-username</a></p>
+            <p>📘 GeeksforGeeks: <a className="text-blue-400 hover:underline" href="https://auth.geeksforgeeks.org/user/your-username" target="_blank" rel="noopener noreferrer">geeksforgeeks.org/user/your-username</a></p>
+            <p>🔥 CodeChef: <a className="text-blue-400 hover:underline" href="https://www.codechef.com/users/your-username" target="_blank" rel="noopener noreferrer">codechef.com/users/your-username</a></p>
+            <p>🏅 HackerRank: <a className="text-blue-400 hover:underline" href="https://www.hackerrank.com/your-username" target="_blank" rel="noopener noreferrer">hackerrank.com/your-username</a></p>
           </div>
         </section>
 
@@ -50,8 +50,8 @@ export default function Home() {
           <h2 className="text-2xl font-semibold text-purple-300 mb-2">Contact</h2>
           <div className="bg-gray-800 p-4 rounded shadow space-y-1">
             <p>📧 Email: <a className="text-blue-400 hover:underline" href="mailto:chinnuchandan11@gmail.com">chinnuchandan11@gmail.com</a></p>
-            <p>🌐 GitHub: <a className="text-blue-400 hover:underline" href="https://github.com/your-username">github.com/your-username</a></p>
-            <p>💼 LinkedIn: <a className="text-blue-400 hover:underline" href="https://linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></p>
+            <p>🌐 GitHub: <a className="text-blue-400 hover:underline" href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">github.com/your-username</a></p>
+            <p>💼 LinkedIn: <a className="text-blue-400 hover:underline" href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">linkedin.com/in/your-profile</a></p>
           </div>
         </section>
       </div>
